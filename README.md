@@ -16,11 +16,11 @@
 #### the amount must be greater than 1000<br>
 #### If Above Condition becomes falsed it will Show error that amount should be greater than  1000<br> 
 #### Below is the Output of this case.<br>
-##### ![Output test case 1](https://imgur.com/8wfIAe8)
+#### ![Output test case 1](https://imgur.com/8wfIAe8)
 
 ### Imp Note:
 ### As Above condition of intial amount get falsed .the intial amount will be set to 0 <br>
-### ![Output of show details function] (https://imgur.com/VwTi4io)
+### ![Output of show details function](https://i.imgur.com/VwTi4io.png)
 
 ---
 
