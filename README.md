@@ -11,8 +11,6 @@
 #### 3.Show Details
 
 #### Images of output: 
-<br>
-
 #### When account is created and when you enter the intial amount<br>
 #### the amount must be greater than 1000<br>
 #### If Above Condition becomes Falsed it will Show error that amount should be greater than  1000<br> 
