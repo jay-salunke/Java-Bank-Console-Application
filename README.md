@@ -6,7 +6,7 @@
 
 #### 1.Withdraw
 
-##### 2.Deposit
+#### 2.Deposit
 
 ##### 3.Show Details
 
