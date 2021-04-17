@@ -1,12 +1,12 @@
 # Java-Bank-Console-Application
 
-This is a basic Bank Console Application created in java
+<p>This is a basic Bank Console Application created in java
 
 Features of the program:
 1.Withdraw
 2.Deposit
 3.Show Details
-
+</p>
 Images of output: 
 <br>
 When account is created and when you enter the intial amount
