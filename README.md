@@ -52,6 +52,14 @@ Deposit Case<br>
 ![Deposit  Output](https://i.imgur.com/o7cUJ3V.png)
 ---
 
+#### Show Details
+Show Details will show the Account number and current balance.
+<br>
+#### Show Details Output:
+![Show Details Ouptut](https://i.imgur.com/jW7Pw6m.png)
+---
+
+
 
 
 
