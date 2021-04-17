@@ -36,7 +36,7 @@ Withdraw Function()
 
 ---
 
-![WithDraw Function](https://i.imgur.com/OBCxJk6.png)
+
 
 
 
