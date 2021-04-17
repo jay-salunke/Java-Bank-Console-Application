@@ -1,7 +1,17 @@
 # Java-Bank-Console-Application
-This is a Basic Console BankApplication which will do following operations like: 
-1.WithDraw
+
+This is a basic Bank Console Application created in java
+
+Features of the program:
+1.Withdraw
 2.Deposit
 3.Show Details
+
+Images of output:
+
+
+
+
+
 
 
