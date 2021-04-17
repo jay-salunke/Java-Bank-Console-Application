@@ -34,10 +34,10 @@
 Withdraw Cases<br>
 1.Withraw limit is upto 10,000 Rs/- only<br>
 2.While Withdrawing the amount from bank the amount should not be greater than current balance <br> else it will show ouptut as WithDraw value is greater Please enter the the right amount value!.....<br>
-3.Also it will check for negative input(i.e. If user enters the negative number as a input for withdrawing it will print as Please enter the amount value greater than 0 rs/-)<br>
+3.Also it will check for negative input(i.e. If user enters the negative number as a input for withdrawing it will print as <br> Please enter the amount value greater than 0 rs/-)<br>
 
 
-Withdraw Output()
+#### Withdraw Output
 ![Withdraw Output](https://i.imgur.com/OBCxJk6.png)
 
 ---
