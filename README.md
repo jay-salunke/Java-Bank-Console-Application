@@ -46,6 +46,8 @@ Withdraw Cases<br>
 Deposit Case<br>
 1.Test-Case 1-> In Deposit case the number entered by user should not be negative number else it will print as <br>
   Please enter the amount value greater than 0 rs/-
+  Test-Case 1 Output:
+  ![Deposit TestCase output 1](https://i.imgur.com/z3licYl.png)
 #### Deposit Output
 ---
 
