@@ -10,13 +10,21 @@
 
 #### 3.Show Details
 
-#### Images of output: 
+#### Images of output:
+#### Test-Case 1: 
 #### When account is created and when you enter the intial amount<br>
 #### the amount must be greater than 1000<br>
-#### If Above Condition becomes Falsed it will Show error that amount should be greater than  1000<br> 
+#### If Above Condition becomes falsed it will Show error that amount should be greater than  1000<br> 
 #### Below is the Output of this case.<br>
 ##### ![Output test case 1](https://imgur.com/8wfIAe8)
+
 ---
+
+#### Test-Case 2: 
+#### If the account is greater than 1000 <br>
+#### Following Output of successfully creating account<br>
+#### ![Output text case 2](https://imgur.com/ZbtJEzq)
+
 
 
 
