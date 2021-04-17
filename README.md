@@ -31,6 +31,13 @@
 
 ---
 
+Withdraw Function()
+![Withdraw Output](https://i.imgur.com/OBCxJk6.png)
+
+---
+
+![WithDraw Function](https://i.imgur.com/OBCxJk6.png)
+
 
 
 
