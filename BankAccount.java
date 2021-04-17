@@ -71,7 +71,7 @@ public class BankAccount {
         int withdraw_value;
         System.out.print("Enter the withdraw value: ");
         withdraw_value = s.nextInt();
-        if (withdraw_value > Withdraw_limit) {
+        if (withdraw_value==Withdraw_limit) {
             System.out.println("Withdraw limit is upto 10,000 rs only/-");
         } else if (withdraw_value <= 0) {
 
