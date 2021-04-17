@@ -1,6 +1,6 @@
 # Java-Bank-Console-Application
 
-# # # This is a basic Bank Console Application created in java
+### # This is a basic Bank Console Application created in java
 
 Features of the program:
 1.Withdraw
