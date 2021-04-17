@@ -18,6 +18,10 @@
 #### Below is the Output of this case.<br>
 ##### ![Output test case 1](https://imgur.com/8wfIAe8)
 
+### Imp Note:
+### As Above condition of intial amount get falsed .the intial amount will be set to 0 <br>
+### ![Output of show details function] (https://imgur.com/VwTi4io)
+
 ---
 
 #### Test-Case 2: 
