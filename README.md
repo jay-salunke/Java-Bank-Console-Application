@@ -21,9 +21,11 @@
 ---
 
 #### Test-Case 2: 
-#### If the account is greater than 1000 <br>
+#### If intial amount is greater than 1000 <br>
 #### Following Output of successfully creating account<br>
 #### ![Output text case 2](https://imgur.com/ZbtJEzq)
+
+---
 
 
 
