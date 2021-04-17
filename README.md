@@ -49,6 +49,7 @@ Deposit Case<br>
   Test-Case 1 Output:
   ![Deposit TestCase output 1](https://i.imgur.com/z3licYl.png)
 #### Deposit Output
+![Deposit  Output](https://i.imgur.com/o7cUJ3V.png)
 ---
 
 
