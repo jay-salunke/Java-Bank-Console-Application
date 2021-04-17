@@ -4,11 +4,11 @@
 
 ### Features of the program:
 
-#### 1.Withdraw
+#### 
+1.Withdraw
+2.Deposit
+3.Show Details
 
-#### 2.Deposit
-
-#### 3.Show Details
 
 #### Images of output:
 #### Test-Case 1: 
@@ -19,8 +19,9 @@
 #### ![Output test case 1](https://i.imgur.com/8wfIAe8.png)
 
 ### Imp Note:
-### As Above condition of intial amount get falsed .the intial amount will be set to 0 <br>
-### ![Output of show details function](https://i.imgur.com/VwTi4io.png)
+#### As Above condition of intial amount get falsed .the intial amount will be set to 0 <br>
+#### To check enter 3 in a option it will show the details of account. 
+#### ![Output of show details function](https://i.imgur.com/VwTi4io.png)
 
 ---
 
