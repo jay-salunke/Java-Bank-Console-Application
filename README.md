@@ -16,7 +16,7 @@
  Below is the output of this case.<br>
  ![Output test case 1](https://i.imgur.com/8wfIAe8.png)
 
-##### Imp Note:
+#### Imp Note:
  As Above condition of intial amount get falsed .the intial amount will be set to 0 <br>
  To check enter 3 in a option it will show the details of account.<br>
  Below is the output of this case.<br>
@@ -30,9 +30,12 @@
  ![Output text case 2](https://i.imgur.com/ZbtJEzq.png)
 
 ---
-WithDraw 
+#### WithDraw 
 Withdraw Cases
-1.Withraw li
+1.Withraw limit is upto 10,000 Rs/- only
+2.While Withdrawing the amount from bank the amount should not be greater than current balance <br> else it will show ouptut as WithDraw value is greater Please enter the the right amount value!.....
+3.
+
 Withdraw Output()
 ![Withdraw Output](https://i.imgur.com/OBCxJk6.png)
 
