@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BankAccount {
 
-    private int Account_number = 123;  // Account number harcorded value
+    private int Account_number = 123;  // Account number value
     private int Withdraw_limit = 10000;  //withdraw limit
     private int Amount;  //Amount
     public Scanner s = new Scanner(System.in);  //Creating Scanner obj
