@@ -32,7 +32,7 @@
 ---
 #### WithDraw 
 Withdraw Cases<br>
-1.Test-Case 1-> Withraw limit is upto 10,000 Rs/- only<br>![Test case 1 outptut](https://i.imgur.com/vm8EJXq.png)<br>
+1.Test-Case 1-> Withraw limit is upto 10,000 Rs/- only<br>![Test case 1 outptut](https://i.imgur.com/j3uBzcU.png)<br>
 2.Test-Case 2-> While Withdrawing the amount from bank the amount should not be greater than current balance <br> else it will show ouptut as WithDraw value is greater Please enter the the right amount value!.....<br>![Test case 2 output](https://i.imgur.com/1tgKQta.png)<br>
 3.Test-Case 3-> Also it will check for negative input(i.e. If user enters the negative number as a input for withdrawing it will print as <br> Please enter the amount value greater than 0 rs/-)<br>![Test case 3 output](https://i.imgur.com/vRpKFxx.png)<br>
 
